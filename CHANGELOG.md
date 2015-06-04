@@ -1,3 +1,8 @@
+## 4.1.8 (TODO)
+
+Fixes:
+- Route paths for views match supersonic by also allowing query parameters
+
 ## 4.1.7 (2015-06-02)
 
 Changes:
